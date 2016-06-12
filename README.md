@@ -2,7 +2,7 @@
 
 This is a collection of useful tools for accessibility testing and debugging. The earlier in the process you start using these, the better. 
 
-See also the accessibility section of my [https://github.com/akikoo/frontend-dev-bookmarks](frontend-dev-bookmarks) which contains many more resources.
+See also the accessibility section of my [frontend-dev-bookmarks](https://github.com/akikoo/frontend-dev-bookmarks) which contains many more resources.
 
 ## Mac 
 
