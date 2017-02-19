@@ -30,6 +30,7 @@ See also the accessibility section of my [frontend-dev-bookmarks](https://github
 * Accessibility Evaluation Toolbar for Firefox: https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/
 * DOM Inspector for Firefox: https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
 * Juicy Studio Accessibility Toolbar for Firefox: https://addons.mozilla.org/en-US/firefox/addon/juicy-studio-accessibility-too/
+* WAVE Accessibility Extension for Firefox: https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/
 
 ### See the full accessibility tree in Chrome
 
