@@ -20,13 +20,17 @@ See also the accessibility section of my [frontend-dev-bookmarks](https://github
 * debugCSS: http://yahoo.github.io/debugCSS/
 * AcceCSS Sass mixin: http://lukyvj.github.io/accecss/
 
-## Browser extensions
+## Browser extensions (Chrome)
 
 * The Accessibility DevTools extension for Chrome: https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb
 * WAVE Evaluation Tool for Chrome: https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh
 * ChromeVox for Chrome: https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn
 * aXe for Chrome: https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd
 * Color Contrast Analyzer for Chrome: https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll/related
+* Siteimprove Accessibility Checker for Chrome: https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc/
+
+## Browser extensions (Firefox)
+
 * Accessibility Evaluation Toolbar for Firefox: https://addons.mozilla.org/en-US/firefox/addon/accessibility-evaluation-toolb/
 * DOM Inspector for Firefox: https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/
 * Juicy Studio Accessibility Toolbar for Firefox: https://addons.mozilla.org/en-US/firefox/addon/juicy-studio-accessibility-too/
