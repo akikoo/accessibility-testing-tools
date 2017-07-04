@@ -70,3 +70,4 @@ You can view a dump of the accessibility tree in Chrome by typing `chrome://acce
 * Accessibility Testing Tools: http://www.paciellogroup.com/blog/2014/10/accessibility-testing-tools-updated/
 * Screen Reader User Survey 6 Results: http://webaim.org/projects/screenreadersurvey6/
 * Web Accessibility Evaluation Tools List (by W3C): https://www.w3.org/WAI/ER/tools/
+* Easy Checks - A First Review of Web Accessibility: https://www.w3.org/WAI/eval/preliminary
