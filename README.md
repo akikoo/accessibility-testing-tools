@@ -13,6 +13,8 @@ See also the accessibility section of my [frontend-dev-bookmarks](https://github
 
 * The Accessibility Viewer (aViewer) for Windows: http://www.paciellogroup.com/resources/aviewer/
 * NVDA for Windows: http://www.nvaccess.org/download/
+* JAWS for Windows: http://www.freedomscientific.com/Downloads/JAWS
+* Up and Running with JAWS: https://joe-watkins.io/accessibility/up-and-running-with-jaws-on-a-mac/
 
 ## CSS Diagnostics
 
