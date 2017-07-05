@@ -28,6 +28,7 @@ See also the accessibility section of my [frontend-dev-bookmarks](https://github
 * aXe for Chrome: https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd
 * Color Contrast Analyzer for Chrome: https://chrome.google.com/webstore/detail/color-contrast-analyzer/dagdlcijhfbmgkjokkjicnnfimlebcll/related
 * Siteimprove Accessibility Checker for Chrome: https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc/
+* TRAY Readability tool: https://chrome.google.com/webstore/detail/tray-readability-tool/eccbjfaplogblgjpopbihpgfgmlgjamf
 
 ## Browser extensions (Firefox)
 
