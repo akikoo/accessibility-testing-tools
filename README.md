@@ -60,6 +60,7 @@ You can view a dump of the accessibility tree in Chrome by typing `chrome://acce
 * aXe, accessibility engine for automated Web UI testing: https://github.com/dequelabs/axe-core
 * tota11y, an accessibility visualization toolkit: http://khan.github.io/tota11y/
 * Pa11y: http://pa11y.org/
+* accessibilityjs - accessibility error scanner: https://github.com/github/accessibilityjs
 
 ## Bookmarklets
 
