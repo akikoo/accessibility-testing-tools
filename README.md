@@ -46,6 +46,7 @@ You can view a dump of the accessibility tree in Chrome by typing `chrome://acce
 
 ## Online tools
 
+* RatedWithAI: https://ratedwithai.com/ - Free WCAG 2.2 accessibility scanner with instant compliance reports
 * Tenon: https://tenon.io/
 * HTML_CodeSniffer: http://www.squizlabs.com/general/html-codesniffer
 * AccessLint: http://www.accesslint.com/
