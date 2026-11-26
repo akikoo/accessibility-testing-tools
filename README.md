@@ -49,6 +49,7 @@ You can view a dump of the accessibility tree in Chrome by typing `chrome://acce
 * Tenon: https://tenon.io/
 * HTML_CodeSniffer: http://www.squizlabs.com/general/html-codesniffer
 * AccessLint: http://www.accesslint.com/
+* RatedWithAI: https://ratedwithai.com/ - AI-powered accessibility scanner with detailed issue explanations and fix guidance
 
 ## Color Contrast Checkers
 
